@@ -24,6 +24,7 @@ Software developer with a passion for building useful tools — from browser ext
 |---------|-------------|
 | 🤖 [claude-workflow](https://github.com/stephenbeale/claude-workflow) | JavaScript workflow automation with Claude AI |
 | 📅 [outlook-booking-addin](https://github.com/stephenbeale/outlook-booking-addin) | Outlook add-in for streamlined booking management |
+| 📧 [email-to-planner](https://github.com/stephenbeale/email-to-planner) | Power Automate flow to create Planner tasks from Outlook emails |
 | 🔦 [focushighlighter](https://github.com/stephenbeale/focushighlighter) | Browser tool that highlights focused elements when tabbing through a page |
 | 📞 [NgrokLocalTelephonyStarterUtility](https://github.com/stephenbeale/NgrokLocalTelephonyStarterUtility) | C# utility for spinning up Ngrok tunnels for local telephony dev |
 
