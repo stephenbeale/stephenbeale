@@ -16,6 +16,7 @@ Software developer with a passion for building useful tools — from browser ext
 | 🧠 [waffle](https://github.com/stephenbeale/waffle) | Cognitive colour-word matching game based on the Stroop effect |
 | 🎨 [waffley](https://github.com/stephenbeale/waffley) | A language learning game using colours |
 | 📱 [stroop-test-flutter](https://github.com/stephenbeale/stroop-test-flutter) | Flutter/Dart implementation of the Stroop test |
+| ⚖️ [JobWeigh](https://github.com/stephenbeale/job-compare) | [Side-by-side job offer comparison tool](https://stephenbeale.github.io/job-compare/) — compare salary, benefits, commute, hours, and more with smart calculations like True Hourly Rate. Includes AI-powered import from pasted job listings |
 | 🧪 [stroop-test](https://github.com/stephenbeale/stroop-test) | Web-based Stroop test experiment |
 
 ## 🛠️ Tools & Utilities
