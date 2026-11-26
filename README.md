@@ -1,61 +1,53 @@
-# 👋 Hi, I'm Stephen
+# Hi, I'm Stephen
 
-Software developer with a passion for building useful tools — from browser extensions and CLI utilities to web apps and APIs. I enjoy working across the full stack with C#, JavaScript, Python, PowerShell, and Dart.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎬 [ripdisc](https://github.com/stephenbeale/ripdisc) | PowerShell toolkit for ripping discs with MakeMKV and HandBrake CLI |
-| 💰 [snout](https://github.com/stephenbeale/snout) | Python Flask REST API for eBay price analysis — compare sold vs active listing prices |
-| 📍 [phone-snatch-hotspots](https://github.com/stephenbeale/phone-snatch-hotspots) | London phone theft heat map — report and visualise phone snatching incidents |
-| 🔍 [ebay-uk-filter-extension](https://github.com/stephenbeale/ebay-uk-filter-extension) | Chrome extension for quick toggle filters on eBay UK price research |
-| ⌨️ [keyboard-warrior](https://github.com/stephenbeale/keyboard-warrior) | JavaScript typing game to sharpen your keyboard skills |
-| 🧠 [waffle](https://github.com/stephenbeale/waffle) | Cognitive colour-word matching game based on the Stroop effect |
-| 🎨 [waffley](https://github.com/stephenbeale/waffley) | A language learning game using colours |
-| 📱 [stroop-test-flutter](https://github.com/stephenbeale/stroop-test-flutter) | Flutter/Dart implementation of the Stroop test |
-| ⚖️ [JobWeigh](https://github.com/stephenbeale/job-compare) | [Side-by-side job offer comparison tool](https://stephenbeale.github.io/job-compare/) — compare salary, benefits, commute, hours, and more with smart calculations like True Hourly Rate. Includes AI-powered import from pasted job listings |
-| 🧪 [stroop-test](https://github.com/stephenbeale/stroop-test) | Web-based Stroop test experiment |
-
-## 🛠️ Tools & Utilities
-
-| Project | Description |
-|---------|-------------|
-| 🤖 [claude-workflow](https://github.com/stephenbeale/claude-workflow) | JavaScript workflow automation with Claude AI |
-| 📅 [outlook-booking-addin](https://github.com/stephenbeale/outlook-booking-addin) | Outlook add-in for streamlined booking management |
-| 📧 [email-to-planner](https://github.com/stephenbeale/email-to-planner) | Power Automate flow to create Planner tasks from Outlook emails |
-| 🔦 [focushighlighter](https://github.com/stephenbeale/focushighlighter) | Browser tool that highlights focused elements when tabbing through a page |
-| 📞 [NgrokLocalTelephonyStarterUtility](https://github.com/stephenbeale/NgrokLocalTelephonyStarterUtility) | C# utility for spinning up Ngrok tunnels for local telephony dev |
-
-## 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Language Projects
-
-| Project | Description |
-|---------|-------------|
-| 📗 [WelshVerbsBlazor](https://github.com/stephenbeale/WelshVerbsBlazor) | Simple Welsh verb tables built with Blazor (with English for context) |
-| 📘 [Welsh.VerbTables](https://github.com/stephenbeale/Welsh.VerbTables) | Look-up for Welsh verb tables, searchable in English |
-| ⚙️ [VerbsMinimalAPI](https://github.com/stephenbeale/VerbsMinimalAPI) | C# Minimal API backend powering the Welsh verb apps |
-
-## 🌐 Web Apps & APIs
-
-| Project | Description |
-|---------|-------------|
-| 🖼️ [portfolio](https://github.com/stephenbeale/portfolio) | My personal portfolio site |
-| 🛒 [HPlus.Ecommerce](https://github.com/stephenbeale/HPlus.Ecommerce) | E-commerce web app |
-| ☁️ [MyBlazorProjectHosted](https://github.com/stephenbeale/MyBlazorProjectHosted) | Hosted Blazor WebAssembly project |
-| 🧩 [BlatchAPI](https://github.com/stephenbeale/BlatchAPI) | C# REST API project |
-| ✅ [BlatchTests](https://github.com/stephenbeale/BlatchTests) | Test suite for BlatchAPI |
-
-## 📚 Learning & Tutorials
-
-Projects from courses and tutorials — building skills across the stack:
-
-[cSharpTutorials](https://github.com/stephenbeale/cSharpTutorials) · [CSharpMiniProjfreeCodeCamp1](https://github.com/stephenbeale/CSharpMiniProjfreeCodeCamp1) · [CSharpFunctionalWaltRitchser](https://github.com/stephenbeale/CSharpFunctionalWaltRitchser) · [cSharpDotNetEssentialTrainingLinkedInLearning](https://github.com/stephenbeale/cSharpDotNetEssentialTrainingLinkedInLearning) · [ProgrammingFoundationsDesignPatterns2LIL](https://github.com/stephenbeale/ProgrammingFoundationsDesignPatterns2LIL) · [SuperHeroAPI-DotNet7PatrickGYT](https://github.com/stephenbeale/SuperHeroAPI-DotNet7PatrickGYT) · [dotNetWebApiBuberBreakfastFreeCodeCamp](https://github.com/stephenbeale/dotNetWebApiBuberBreakfastFreeCodeCamp) · [JavaScriptModernNetNinja](https://github.com/stephenbeale/JavaScriptModernNetNinja) · [dojo-blog](https://github.com/stephenbeale/dojo-blog) · [quizappJsGreatStack](https://github.com/stephenbeale/quizappJsGreatStack) · [jstodolist_GreatStack_YT](https://github.com/stephenbeale/jstodolist_GreatStack_YT) · [notesAppJSGreatStackYT](https://github.com/stephenbeale/notesAppJSGreatStackYT) · [ageCalculatorJSGreatStackYT](https://github.com/stephenbeale/ageCalculatorJSGreatStackYT) · [passwordJsAppGreatStack](https://github.com/stephenbeale/passwordJsAppGreatStack) · [planets](https://github.com/stephenbeale/planets)
+I build small, useful tools: Windows utilities, web apps and PWAs, browser extensions and open-source scripts. Mostly C#, JavaScript, Python and PowerShell. Everything below is free to use. If something is a preview or beta, I say so.
 
 ---
 
-## 💡 Tech I Work With
+## Home media and disc ripping
+
+| Project | What it does for you |
+|---------|----------------------|
+| [RipDisc](https://github.com/stephenbeale/ripdisc) | Rip your DVDs and Blu-rays to tidy, correctly named files for Jellyfin or Plex, using MakeMKV and HandBrake. [Video walkthrough](https://www.youtube.com/watch?v=n2yGnC5RDSg). Windows, PowerShell. |
+| [RipAudio](https://github.com/stephenbeale/ripaudio) | Rip audio CDs to FLAC with artist, album and track metadata looked up for you (MusicBrainz and Discogs). Windows, PowerShell, built on cyanrip. |
+| [NostalgiaTV launcher](https://github.com/stephenbeale/nostalgiaTv-windows-docker) | One-click start for the NostalgiaTV server on Windows with Docker, turning your own Jellyfin library into 1990s-style cable TV. The server itself is someone else's work, credited in the README. |
+
+## Creator tools
+
+| Project | What it does for you |
+|---------|----------------------|
+| [Flyweight](https://github.com/stephenbeale/flyweight) (preview) | A simple, lightweight Windows video editor for long-form social media content. Early preview: expect rough edges, and [issues and feedback](https://github.com/stephenbeale/flyweight/issues) are welcome. |
+
+## Language learning
+
+| Project | What it does for you |
+|---------|----------------------|
+| [Waffley](https://stephenbeale.github.io/waffley/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme) | Learn vocabulary and verbs through play: Spanish, French, German, Italian, Welsh, Portuguese and Japanese. Free, in your browser. [Source](https://github.com/stephenbeale/waffley). |
+| [Verbio](https://stephenbeale.github.io/verbio/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme) | Welsh verb tables you can look up quickly. Free, in your browser. [Source](https://github.com/stephenbeale/verbio). |
+
+## Everyday web tools
+
+| Project | What it does for you |
+|---------|----------------------|
+| [Snout](https://stephenbeale.github.io/snout/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme) | Compare active and sold eBay UK prices and see average, median and range, including postage. A PWA for resellers. [Source](https://github.com/stephenbeale/snout). |
+| [JobWeigh](https://stephenbeale.github.io/job-compare/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme) | Compare job offers side by side on salary, benefits, commute and hours, with calculations such as true hourly rate. [Source](https://github.com/stephenbeale/job-compare). |
+| [Ticked Off](https://stephenbeale.github.io/ticked-off/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme) | Save a checklist once and run it again whenever you need it. No account, works on your phone. [Source](https://github.com/stephenbeale/ticked-off). |
+
+## Browser extensions
+
+| Project | What it does for you |
+|---------|----------------------|
+| [Redirect DG](https://github.com/stephenbeale/redirect-dg) | Send big-tech sites to privacy-friendlier alternatives (for example search to DuckDuckGo), with an optional warning page first. |
+| [eBay UK filter extension](https://github.com/stephenbeale/ebay-uk-filter-extension) | Quick toggles for Sold Items, Condition, UK Only and Buy It Now on eBay UK. |
+| [Focus Highlighter](https://github.com/stephenbeale/focushighlighter) | Highlights the focused element as you tab through a page. |
+
+## Also on my GitHub
+
+[keyboard-warrior](https://github.com/stephenbeale/keyboard-warrior) (typing game) · [phone-snatch-hotspots](https://github.com/stephenbeale/phone-snatch-hotspots) (London phone theft heat map, prototype: reports are only saved in your own browser) · [email-to-planner](https://github.com/stephenbeale/email-to-planner) (Power Automate flow: Outlook email to Planner task) · [Welsh.VerbTables](https://github.com/stephenbeale/Welsh.VerbTables) and [WelshVerbsBlazor](https://github.com/stephenbeale/WelshVerbsBlazor) (earlier Welsh verb projects)
+
+---
+
+## Tech I work with
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -70,8 +62,8 @@ Projects from courses and tutorials — building skills across the stack:
 
 ---
 
-## ☕ Support
+## Support
 
-If you find any of my projects useful, consider buying me a coffee!
+If you find any of my projects useful, you can [buy me a coffee](https://buymeacoffee.com/stephenbeale). Entirely optional.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stephenbeale)
